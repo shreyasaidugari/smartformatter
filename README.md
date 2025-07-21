@@ -1,2 +1,2 @@
 # smartformatter
-smart library library
+smart formatter  library
